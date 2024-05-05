@@ -1,0 +1,6 @@
+1- Map Reduce
+2- Target Encoding
+3- Handle outliers?
+4- nkamel el goz2 bta3 boody
+5- nefsel el files [DONE]
+6- pipeline females
