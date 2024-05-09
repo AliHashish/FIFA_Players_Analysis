@@ -1,6 +1,8 @@
-1- Map Reduce
-2- Target Encoding
-3- Handle outliers?
-4- nkamel el goz2 bta3 boody
+2- Target Encoding [FAKES]
+3- Handle outliers? [DONE]
+4- nkamel el goz2 bta3 boody [DONE]
 5- nefsel el files [DONE]
-6- pipeline females
+6- pipeline females [DONE]
+1- Map Reduce
+7- presentation
+8- ba2eit el report
