@@ -1,11 +1,10 @@
+1- Map Reduce [DONE]
 2- Target Encoding [FAKES]
 3- Handle outliers? [DONE]
 4- nkamel el goz2 bta3 boody [DONE]
 5- nefsel el files [DONE]
 6- pipeline females [DONE]
-
-1- Map Reduce [DONE]
 7- presentation [DONE]
 8- ba2eit el report [DONE]
 9- zawed linear regression, w 7oto fl report brdo [DONE]
-10- 7ot el mae wl mse fl report wl ppt b3d el normalization
+10- 7ot el mae wl mse fl report wl ppt b3d el normalization [DONE]
